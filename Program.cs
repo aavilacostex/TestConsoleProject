@@ -11,6 +11,7 @@ namespace TestConsoleProject
         static void Main(string[] args)
         {
             string aaa = "this a test";
+            string bbb = "other tool";
            
         }
     }
